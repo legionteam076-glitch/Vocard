@@ -1,15 +1,15 @@
 {
-    "token": "MTQ1NTk2ODkwNzI5NzgxNjYwOQ.GUU7a0.TwKZ7JS7bvyxBLRbw7d80MAUX78HSkEzG-aSko",
-    "client_id": "1455968907297816609",
+    "token": "",
+    "client_id": "1466374461115863084",
     "genius_token": "YOUR_GENIUS_TOKEN",
     "mongodb_url": "mongodb+srv://sestro:sestro@cluster0.zldd64l.mongodb.net/?retryWrites=true&w=majority",
     "mongodb_name": "MAIN",
     "nodes": {
         "DEFAULT": {
             "host": "lavalinkv4.serenetia.com",
-            "port": 443,
+            "port": 80,
             "password": "https://dsc.gg/ajidevserver",
-            "secure": true,
+            "secure": false,
             "identifier": "DEFAULT",
             "yt_ratelimit": {
                 "tokens": [],
@@ -23,7 +23,7 @@
     },
     "prefix": "?",
     "activity": [
-        {"type": "listening", "name": "/help", "status": "online"}
+        {"type": "listening", "name": "Mr PopANtHA x WrapX Hostings", "status": "online"}
     ],
     "logging": {
         "file": {
